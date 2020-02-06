@@ -5,12 +5,12 @@ donde la fila más grande correspondera al numero de entrada como el siguiente e
 
 número de entrada: 5
 
-*
-**
-***
-****
-*****
-****
-***
-**
-*
+%*
+%**
+%***
+%****
+%*****
+%****
+%***
+%**
+%*
